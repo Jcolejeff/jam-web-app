@@ -35,7 +35,6 @@ import useStore from "@/store";
 import { formatToNaira, revalidateNumber } from "@/lib/utils";
 import { Metadata } from "next";
 import EmptyContentWrapper from "@/hoc/EmptyContentWrapper";
-export const revalidate = false;
 
 function Page() {
 	const {

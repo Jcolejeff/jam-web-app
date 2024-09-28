@@ -18,7 +18,6 @@ import { Show } from "@/components/helpers/show";
 import useSections from "../hooks/sections/sections";
 import { Text } from "@/components/ui/text";
 import Timer from "@/components/ui/timer";
-export const revalidate = false;
 function Page() {
 	const { sortedAndFilteredProducts } = useProducts(categoriesId.farmOffTake);
 	const { data: info } = useSections();
