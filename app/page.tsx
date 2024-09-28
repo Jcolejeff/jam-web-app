@@ -9,14 +9,13 @@ import { Metadata } from "next";
 export const revalidate = 60;
 
 export const metadata: Metadata = {
-	title: "My Food Angels",
-	description:
-		"My Food Angels is a platform that connects food lovers with the best food vendors in Nigeria. We provide a platform for food vendors to showcase their products and services to a wider audience. We also provide a platform for food lovers to discover new and exciting food vendors in their area.",
+	title: "Jamnia's Bridal",
+	description: "Jamnia's Bridal is a one ",
 	generator: "Next.js",
 	applicationName: "MyFoodAngels",
 	referrer: "origin-when-cross-origin",
 	keywords: [
-		"My Food Angels",
+		"Jamnia's Bridal",
 		"Food",
 		"Food Vendors",
 		"Food Lovers",
@@ -41,9 +40,9 @@ export const metadata: Metadata = {
 		},
 	},
 	openGraph: {
-		title: "My Food Angels | Connecting You with the Best Food Vendors",
+		title: "Jamnia's Bridal | Connecting You with the Best Food Vendors",
 		description:
-			"Discover top food vendors in Nigeria and explore a wide variety of food products and services. My Food Angels brings you the best food experiences, delivered to your doorstep.",
+			"Discover top food vendors in Nigeria and explore a wide variety of food products and services. Jamnia's Bridal brings you the best food experiences, delivered to your doorstep.",
 		url: "https://myfoodangels.com",
 		siteName: "MyFoodAngels",
 		images: [
@@ -82,9 +81,9 @@ export const metadata: Metadata = {
 	manifest: "https://myfoodangels.com/manifest.json",
 	twitter: {
 		card: "summary_large_image",
-		title: "My Food Angels",
+		title: "Jamnia's Bridal",
 		description:
-			"Connect with the best food vendors in Nigeria. Discover and order from a variety of food products and services, all available on My Food Angels.",
+			"Connect with the best food vendors in Nigeria. Discover and order from a variety of food products and services, all available on Jamnia's Bridal.",
 		siteId: "1467726470533754880",
 		creator: "@MyFoodAngels",
 		creatorId: "1467726470533754880",
