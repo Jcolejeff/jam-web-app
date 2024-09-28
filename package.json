@@ -71,7 +71,7 @@
       "lucide-react": "^0.363.0",
       "moment": "^2.29.4",
       "multi-range-slider-react": "^2.0.7",
-      "next": "14.0.4",
+      "next": "14.2.13",
       "next-themes": "^0.2.1",
       "payment": "^2.4.6",
       "postcss": "8.4.23",
